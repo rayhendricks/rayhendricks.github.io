@@ -1,5 +1,5 @@
 
-There is a good bit of biology and CS that I don’t understand yet, that I want to understand.  So I’ve decided to read and *gain an understanding* of at least one scientific paper per day for the next few months. 
+There is a good bit of biology and CS that I don’t understand yet, that I want to understand.  
 
 I'll post a summary of the paper and a link for the paper on this blog. The first paper I will be discussing will be the [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)  paper, by S. Keshav.  
 
