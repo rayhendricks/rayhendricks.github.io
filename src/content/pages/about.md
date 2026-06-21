@@ -13,8 +13,6 @@ description: "A bit about Ray Hendricks and this blog."
 
 Ray is a genetics PhD student at the University of North Texas, where his research is concentrated on gene family evolution and stress response using the nematode _C. elegans_ as a model organism. He's interested in how genomes change over evolutionary time and what compact, well-characterized systems can reveal about biology more broadly.
 
-This site is where he keeps notes — on research, the things he's learning, and ideas worth holding onto. It's built with [Astro](https://astro.build/) and the [AstroPaper](https://github.com/satnaing/astro-paper) theme.
-
 ## Elsewhere
 
 - Code: [github.com/rayhendricks](https://github.com/rayhendricks)
