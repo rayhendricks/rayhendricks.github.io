@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://rayhendricks.github.io/",
+    url: "https://www.rayhendricks.com/",
     title: "Ray Hendricks",
     description: "Personal blog and website of Ray Hendricks.",
     author: "Ray Hendricks",
