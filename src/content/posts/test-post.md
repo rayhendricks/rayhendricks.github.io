@@ -1,7 +1,7 @@
 ---
 title: Test Post
 description: A sample post showing how posts work on this site.
-pubDatetime: 2026-10-24T12:00:00Z
+pubDatetime: 2026-10-24T05:00:00Z
 tags:
   - test
 draft: false
